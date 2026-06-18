@@ -13,7 +13,7 @@ const outfit = Outfit({
 });
 
 export const metadata: Metadata = {
-  title: "Pepe Bau | Cantante, Guitarrista, Compositor y Productor Pop Mexicano",
+  title: "Pepe Bau | Cantante, Guitarrista, Compositor y Productor Mexicano",
   description: "Sitio web oficial de Pepe Bau. Descubre la trayectoria, música original, live sessions y lanzamientos del productor y guitarrista pop mexicano.",
   keywords: ["Pepe Bau", "Pp Bau", "Música Pop Mexicana", "Pop Rock México", "Guitarrista Toluca", "Productor Musical Mexicano", "Quimera", "La Academia Azteca", "Indie Pop México"],
   authors: [{ name: "Pepe Bau" }],
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     title: "Pepe Bau",
   },
   openGraph: {
-    title: "Pepe Bau | Cantante, Guitarrista, Compositor y Productor Pop",
+    title: "Pepe Bau | Cantante, Guitarrista, Compositor y Productor",
     description: "Sitio web oficial de Pepe Bau. Trayectoria, música original, live sessions y lanzamientos del productor pop mexicano.",
     url: "https://ppbau.mx",
     siteName: "Pepe Bau Oficial",

@@ -79,7 +79,7 @@ export default function Hero() {
         >
           {/* Main H1 for SEO compliance */}
           <h1 className="sr-only">
-            Pepe Bau | Cantante, Guitarrista, Compositor y Productor Pop Mexicano
+            Pepe Bau | Cantante, Guitarrista, Compositor y Productor Mexicano
           </h1>
 
           {/* Subtle Announcement tag */}
