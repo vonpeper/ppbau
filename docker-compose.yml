@@ -10,7 +10,7 @@ services:
       - NEXT_TELEMETRY_DISABLED=1
     labels:
       - "traefik.enable=true"
-      - "traefik.http.routers.ppbau.rule=Host(`ppbau.com`) || Host(`www.ppbau.com`)"
+      - "traefik.http.routers.ppbau.rule=Host(`ppbau.mx`) || Host(`www.ppbau.mx`)"
       - "traefik.http.routers.ppbau.entrypoints=websecure"
       - "traefik.http.routers.ppbau.tls.certresolver=letsencrypt"
       - "traefik.http.services.ppbau.loadbalancer.server.port=3000"
