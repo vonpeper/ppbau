@@ -77,6 +77,11 @@ export default function Hero() {
             gap: "24px",
           }}
         >
+          {/* Main H1 for SEO compliance */}
+          <h1 className="sr-only">
+            Pepe Bau | Cantante, Guitarrista, Compositor y Productor Pop Mexicano
+          </h1>
+
           {/* Subtle Announcement tag */}
           <div
             style={{
